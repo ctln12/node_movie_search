@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "This is a movie search app built while following The Web Developer Bootcamp by Colt Steele on Udemy",
   "main": "app.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
