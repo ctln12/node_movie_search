@@ -1,0 +1,25 @@
+{
+  "name": "node_movie_search",
+  "version": "1.0.0",
+  "description": "This is a movie search app built while following The Web Developer Bootcamp by Colt Steele on Udemy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node_movie_search"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api"
+  ],
+  "author": "Cataline Baert",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
